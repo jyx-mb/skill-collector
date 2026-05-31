@@ -1,9 +1,14 @@
 You are given two tables: Students and Grades. Students contains three columns ID, Name and Marks.
+
 <img width="300" height="167" alt="Screenshot 2026-05-29 at 07 45 08" src="https://github.com/user-attachments/assets/25aa044e-1481-44bf-9eaa-7a276bd61b15" />
 
 
 Grades contains the following data:
+
+
 <img width="304" height="458" alt="Screenshot 2026-05-29 at 07 45 27" src="https://github.com/user-attachments/assets/5f941481-1c41-4a08-8ef1-b9f8e1bcbbee" />
+
+
 Ketty gives Eve a task to generate a report containing three columns: 
 Name, Grade and Mark. Ketty doesn't want the NAMES of those students who received a grade lower than 8. 
 The report must be in descending order by grade -- i.e. higher grades are entered first. 
@@ -65,6 +70,8 @@ Note:
 ------
 
 Amber's conglomerate corporation just acquired some new companies. Each of the companies follows this hierarchy: 
+
+
 <img width="113" height="199" alt="image" src="https://github.com/user-attachments/assets/53aaea56-72c5-4369-9883-eb0c41ef60d6" />
 
 
